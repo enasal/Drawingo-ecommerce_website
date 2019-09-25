@@ -1,0 +1,76 @@
+/*********************************************************************************
+
+	Template Name: Boighor Bookshop Responsive Bootstrap4 Template  
+	Description: Template description
+	Version: 1.0
+	Note: This is custom css. All custom styles (user styles) declare here.
+
+**********************************************************************************/
+.logo a:link {
+	 font-size: 30px;
+	line-height: 50px;
+}
+.colort{
+	color:#333 !important;
+	font-size: 25px;
+}
+.colort:hover{
+	color: #e59285 !important;
+}
+.add2{
+	color: #e59285 !important;
+}
+.add2:hover{
+	color: #333 !important;
+}
+
+.Thanks{
+	color: #e59285 !important;
+	font-size: 70px !important;
+	margin-bottom: 30px;
+}
+.comp{
+	color:#333 !important;
+	font-size: 40px !important;
+}
+.fa-truck{
+	font-size: 50px;
+}
+.bg-co{
+	margin-top: 20px;
+	margin-right:20px;
+	height: 100px;
+	
+}
+.ul-c{
+	margin-bottom: 50px;
+}
+.check1{
+	margin-top: -100px;
+	margin-bottom: 100px;
+}
+.border-btn{
+	border:3px solid #e59285;
+	border-radius: 15px !important;
+}
+.bg-r{
+    	border:3px solid #e59285;
+	border-radius: 15px !important;
+}
+#wn__header{
+	background-color: #fff;
+}
+.wish{
+	background-color: #e59285;
+}
+.align:hover{
+	border-bottom: 2px solid #fff;
+}
+/*.ht__bradcaump__area{
+	height: 300px !important;
+}*/
+
+/*.cartbox__btn{
+	background-color: #333;
+}*/
+/*payment*/
